@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "arena-skill",
+  "description": "The Arena skill for Claude Code",
+  "owner": {
+    "name": "Jake Schincariol",
+    "url": "https://opusjake.ai"
+  },
+  "plugins": [
+    {
+      "name": "arena-skill",
+      "description": "Spins up 100 sub-agents on the exact same task, each with a different strategy card, and runs them through an attack, defend and judge bracket until one answer survives.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/Jakeschincariol/arena-skill"
+    }
+  ]
+}
