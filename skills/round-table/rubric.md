@@ -1,6 +1,6 @@
-# The arena rubric
+# The round-table rubric
 
-Every match in the arena is scored against this page. The judge scores both solutions, `bracket.py`
+Every match in the tournament is scored against this page. The judge scores both solutions, `bracket.py`
 does the arithmetic, and the higher weighted total goes through. The loser is out.
 
 ## The five criteria

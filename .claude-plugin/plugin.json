@@ -1,20 +1,18 @@
 {
-  "name": "arena-skill",
-  "description": "When Claude keeps giving you bad answers, make 100 versions of it fight to the death. Same task, 100 different strategies, a bracket, one answer left. Free Claude Code skill.",
+  "name": "round-table",
+  "description": "A tournament, then a round table. N sub-agents fight a bracket on the same task until K are left; the K pitch, merge their best ideas over a few table rounds with a scribe who logs every dropped idea, survive a red team, and a blind judge checks the result against the bracket champion. Forked from arena-skill.",
   "version": "1.0.0",
   "author": {
-    "name": "Jake Schincariol",
-    "url": "https://opusjake.ai"
+    "name": "IcaruzSoftware"
   },
-  "homepage": "https://github.com/Jakeschincariol/arena-skill",
-  "repository": "https://github.com/Jakeschincariol/arena-skill",
   "license": "MIT",
   "keywords": [
     "claude-code",
     "subagents",
     "multi-agent",
     "tournament",
-    "arena",
+    "round-table",
+    "consensus",
     "prompting"
   ]
 }

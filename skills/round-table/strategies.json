@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "about": "The strategy cards for /arena. Every competitor gets the same task and exactly one card: one reasoning mode, one workflow, one strategy. 15 x 12 x 12 = 2,160 distinct cards. bracket.py deals them with no repeats and spreads them evenly, so a 100-agent arena uses every reasoning mode, every workflow and every strategy. Edit freely: add an entry and the dealer picks it up. Ids must stay unique within a list.",
+  "about": "The strategy cards for /round-table. Every competitor gets the same task and exactly one card: one reasoning mode, one workflow, one strategy. 15 x 12 x 12 = 2,160 distinct cards. bracket.py deals them with no repeats and spreads them evenly, so a 100-agent tournament uses every reasoning mode, every workflow and every strategy. Edit freely: add an entry and the dealer picks it up. Ids must stay unique within a list.",
   "reasoning": [
     {
       "id": "first-principles",
