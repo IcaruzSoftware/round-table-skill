@@ -1,4 +1,4 @@
-# round-table: a Claude Code skill for multi-agent brainstorming and consensus answers
+# The Round Table: a Claude Code skill for multi-agent brainstorming and consensus answers
 
 A Claude Code skill (plugin) for tasks where the first good answer is not the best one. It runs
 many sub-agents on the same task, lets them compete, and merges the best survivors into one answer.
