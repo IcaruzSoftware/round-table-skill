@@ -1,4 +1,4 @@
-# round-table
+# The Round Table Skill
 
 A Claude Code skill for tasks where the first good answer is not the best one.
 
